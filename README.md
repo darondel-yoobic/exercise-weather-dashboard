@@ -42,5 +42,6 @@ Build a Weather Dashboard Angular application without using any UI library.
 
 Please submit your completed code in a GitHub repository.
 Include clear instructions on how to run the application and any additional comments you may have.
+Make sure you grant access to darondel@yoobic.com and emontredon@yoobic.com.
 
 Thank you for participating, and we look forward to reviewing your submission! 🙌
